@@ -1,3 +1,7 @@
 hello git!
 thankyou~
+<<<<<<< HEAD
 master
+=======
+1121
+>>>>>>> branch1
